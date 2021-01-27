@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Ryan Camp.
+I am currently working with [Astra Labs](https://www.withastra.org/) on the Aetheria project.
+I am learning Django, Django Rest Framework for this project.
+I love learning new tech and having conversations about its use.
+Please feel free to connect with me on LinkedIn: [Ryan Camp LinkedIn](https://www.linkedin.com/in/campprg/)
+
 
 <!--
 **cmpprg/cmpprg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
