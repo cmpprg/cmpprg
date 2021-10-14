@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Ryan Camp.
-I am currently working with [Astra Labs](https://www.withastra.org/) on the Aetheria project.
-I am learned Django, Django Rest Framework for this project for the Backend. Also, took on the Front End using VueJs. As a team we are currently transitioning to using Dart / Flutter for mobile development.
+I am currently working with [SingleOps](https://singleops.com/) fullstack on a RoR app.
+I am learning a lot obout JS integration and configurations at this time. Also, learning about micro frontends via a udemy course, which we may be implementing soon. 
 That all being said, my first love and background is with Ruby / Ruby on Rails.
 I love learning new tech and having conversations about its use.
 Please feel free to connect with me on LinkedIn: [Ryan Camp LinkedIn](https://www.linkedin.com/in/campprg/)
