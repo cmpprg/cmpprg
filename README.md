@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Ryan Camp.
 I am currently working with [SingleOps](https://singleops.com/) fullstack on a RoR app.
-I am learning a lot obout JS integration and configurations at this time. Also, learning about micro frontends via a udemy course, which we may be implementing soon. 
+I am learning a lot obout JS integration and configurations at this time. Also, learning about micro frontends which we have started implementing. 
 I am happy to be working with Ruby / Ruby on Rails as it is my first love in this industry and I still have so much to learn.
 I love learning new tech and having conversations about its use.
 Please feel free to connect with me on LinkedIn: [Ryan Camp LinkedIn](https://www.linkedin.com/in/campprg/)
